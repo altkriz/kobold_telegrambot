@@ -1,4 +1,4 @@
-```markdown
+
 # Kobold-TelegramBot 🤖💬
 
 A feature-rich Telegram bot that brings AI-powered character interactions to your chats using KoboldAI, with full support for Character Card V2 (PNG/JSON) format.
