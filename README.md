@@ -39,7 +39,7 @@ A feature-rich Telegram bot that brings AI-powered character interactions to you
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/kobold-telegrambot.git
+git clone https://github.com/altkriz/kobold-telegrambot.git
 cd kobold-telegrambot
 ```
 
@@ -77,6 +77,8 @@ KOBOLDAI_ENDPOINT=https://your-koboldai-instance/api
 ├── users/          # User session data
 ├── bot.log         # System logs
 └── .env            # Configuration
+└── index.php       # Main File
+
 ```
 
 ## Usage 🚀
@@ -150,12 +152,3 @@ We welcome contributions! Please follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-- Important links and references
-
-You should:
-1. Replace `yourusername` in the clone URL
-2. Add actual demo screenshots
-3. Create a LICENSE file
-4. Add proper documentation links
-5. Include sample character cards in the repo
